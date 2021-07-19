@@ -975,9 +975,9 @@ section.lazy-placeholder:after {
   }
 }
 .cid-sCzJ7KKRCq {
-  padding-top: 2rem;
+  padding-top: 4rem;
   padding-bottom: 0rem;
-  background-image: url("../../../assets/images/comp4.gif");
+  background-image: url("../../../assets/images/background-pcb.gif");
   background-attachment: fixed;
 }
 .cid-sCzJ7KKRCq .nav-tabs .nav-item.open .nav-link:focus,
@@ -1026,6 +1026,9 @@ section.lazy-placeholder:after {
 .cid-sCzJ7KKRCq P {
   text-align: center;
   color: #000000;
+}
+.cid-sCzJ7KKRCq H1 {
+  text-align: center;
 }
 .cid-sCAwKxbNg1 {
   padding-top: 15px;
