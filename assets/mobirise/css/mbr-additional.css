@@ -1789,7 +1789,7 @@ section.lazy-placeholder:after {
   transform: translateY(-10px);
 }
 .cid-sD9sMm5I1p .card-wrap {
-  background: #efefef;
+  background: #ffffff;
   border-radius: 4px;
 }
 @media (max-width: 991px) {
@@ -1802,7 +1802,9 @@ section.lazy-placeholder:after {
 }
 @media (min-width: 768px) {
   .cid-sD9sMm5I1p .card-wrap .content-wrap {
-    padding: 2rem;
+    padding: 1rem;
+    border-radius: 40px 40px;
+    border: 3px solid #4dc3f9;
   }
 }
 @media (max-width: 767px) {
